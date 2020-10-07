@@ -70,4 +70,8 @@ public class GameDataBase {
         } catch (Exception ex) { ex.printStackTrace();
         }
     }
+    private void newFunction(){
+        System.out.println("testar för att de e ball");
+
+    }
 }

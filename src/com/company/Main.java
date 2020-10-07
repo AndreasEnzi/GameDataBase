@@ -6,5 +6,6 @@ public class Main {
 
 
         GameDataBase db = new GameDataBase();
+        System.out.println("Ännu mer kod");
     }
 }
